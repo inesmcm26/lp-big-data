@@ -1,4 +1,4 @@
-name,department,sex,salary
+name,department,gender,salary
 Jane,HR,F,25000
 Jessica,HR,F,28000
 Louis,IT,M,40000
