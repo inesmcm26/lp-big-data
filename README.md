@@ -19,7 +19,7 @@ This collection of modules is designed to help you learn how to work with Big Da
 
     Introduces advanced PySpark topics such as User-Defined Functions (UDFs), window functions, and working with complex data structures like arrays and structs.
 
-4. Final Project
+4. **Final Project**
 
     A final project that brings together the concepts covered in the previous modules. You will work on a real-world dataset, applying your knowledge of Spark to analyze and derive insights from the data.
 
